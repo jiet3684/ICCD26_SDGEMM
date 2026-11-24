@@ -1,0 +1,2 @@
+,,Build tCSR,Matrix Compression,Matrix Align,DMA Transfer,GEMM,Overlapped,Total Time,Merge,Split,Segment,GEMM,Orininal Tile,Binded Tile,CSR Size,tCSR Size
+crankseg_1.mtx,T
